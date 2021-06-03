@@ -5,6 +5,7 @@
 -  CSE Student at IFHE Icfai Tech School, Hyderabad.
 -  Likes to do Programming.
 -  Wanderer in Dimension of Thoughts !! 😂
+-  Huge Fan of Dragon Ball Z @ Yu-gi-oh ! @ Solo Leveling 🤘
 
 ---
 
