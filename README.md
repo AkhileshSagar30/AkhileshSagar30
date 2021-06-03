@@ -49,6 +49,8 @@
 
 ### InternShips @
 
+<br>
+
 | INTENSEL, Hong Kong [July ’20] – [Aug ‘20]
 - Created a portfolio of various companies using web scraping, plotting company locations using python libraries, automation on Web data extraction.
 
