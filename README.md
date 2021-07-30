@@ -2,42 +2,50 @@
 
 ### Student 👨‍🎓 | Developer 👨‍💻
 
--  CSE Student at IFHE Icfai Tech School, Hyderabad.
--  Likes to do Programming.
--  Wanderer in Dimension of Thoughts !! 😂
--  Huge Fan of Dragon Ball Z @ Yu-gi-oh ! @ Solo Leveling 🤘
+👉🏽 CSE Student at IFHE Icfai Tech School, Hyderabad.
 
----
+👉🏽 Likes to do Programming.
 
-### Social Media:
+👉🏽 Wanderer in Dimension of Thoughts !! 😂
 
-[<img align="left" alt="AkhileshSagar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Darkmagician | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="AkhileshSagar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+👉🏽 Huge Fan of Dragon Ball Z @ Yu-gi-oh ! @ Solo Leveling 🤘
 
-<br>
+### Social Media :
 
-
-### Languages and Tools:
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
-
+[<img align="left" alt="AkhileshSagar | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Darkmagician | Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+[<img align="left" alt="AkhileshSagar | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 
 <br>
 
+---
 
+<h1><b> Languages and Tools :</b></h1>
+<p>
+<img align="left" alt="Python" width="50px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
+<img align="left" alt="flask" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpOaDIS0uU8NdjXdB7mrjLeeB-eqXbHI1seWvffkEox2aTTuzs4dYMTznCDDdVV2oDQyo&usqp=CAU" />
+<img align="left" alt="HTML5" width="50px" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" />
+<img align="left" alt="CSS3" width="50px" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" />
+<img align="left" alt="JavaScript" width="50px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
+<img align="left" alt="C" width="50px" src="https://5.imimg.com/data5/WA/FQ/GLADMIN-15711089/c-programming-250x250.png" />
+<img align="left" alt="PhotoShop" width="50px" src="https://i.pinimg.com/originals/9c/ea/ba/9ceaba69b7a9f89158ff953107978f3e.png" />
+<img align="left" alt="MySQL" width="50px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />
+<img align="left" alt="Pycharm" width="50px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
+<img align="left" alt="Java" width="50px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
+<br> <br> <br>
+ <img align="left" alt="boltiot" width="50px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1507026496/kxeqb8elvhqfcr872xod.png" />
+
+<img align="left" alt="pandas" width="60px" src="https://static.javatpoint.com/tutorial/pandas/images/python-pandas.png" />
+<img align="left" alt="bs4" width="60px" src="https://hwk0702.github.io/img/bs.png" />
+<img align="left" alt="selenium" width="50px" src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" />
+<img align="left" alt="tkinter" width="40px" src="https://lh3.googleusercontent.com/proxy/NYrpyWozx3D_0CnoDEkPfJkwNBbDVAA-tYCJ-trHE6odH_MIFegkWW_QIvTyx10pa_n5-sE96Fnf0gICubzicvfZdiKYNMMB-O10LxHajre7zktXWI_CyjZ1" />
+</p>
+
+<br>
 
 ---
 
-### Hobbies
+<h2><b> My Hobbies :</b></h2>
 
 - Gaming 
 - Timepass Editing in Photoshop
@@ -48,7 +56,7 @@
 
 ---
 
-### InternShips @
+<h2><b> InternShips @ 👇</b></h2>
 
 <br>
 
@@ -60,10 +68,11 @@
 
 ---
 
-### Projects
-
-- Horoscope Game (in Java) 
-- IOT Automatic AC on/off System
+<h2><b>Some of My Works </b></h2>
+<ul>
+ <li><a href="https://www.hackster.io/dineshsagar2003/automatic-ac-on-off-system-using-bolt-iot-21da92">IOT Automatic AC on/off System</a></li>
+ <li><a href="#">Horoscope Game (in Java)</a></li>
+</ul>
 
 [linkedin]: https://www.linkedin.com/in/akhileshsagar30/
 [instagram]: https://www.instagram.com/__dark_magician_/
