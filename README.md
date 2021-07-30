@@ -32,13 +32,13 @@
 <img align="left" alt="MySQL" width="50px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />
 <img align="left" alt="Pycharm" width="50px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
 <img align="left" alt="Java" width="50px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
-<br> <br> <br>
- <img align="left" alt="boltiot" width="50px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1507026496/kxeqb8elvhqfcr872xod.png" />
-
+<img align="left" alt="boltiot" width="50px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1507026496/kxeqb8elvhqfcr872xod.png" />
+ <br><br><br><br>
 <img align="left" alt="pandas" width="60px" src="https://static.javatpoint.com/tutorial/pandas/images/python-pandas.png" />
 <img align="left" alt="bs4" width="60px" src="https://hwk0702.github.io/img/bs.png" />
 <img align="left" alt="selenium" width="50px" src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" />
 <img align="left" alt="tkinter" width="40px" src="https://lh3.googleusercontent.com/proxy/NYrpyWozx3D_0CnoDEkPfJkwNBbDVAA-tYCJ-trHE6odH_MIFegkWW_QIvTyx10pa_n5-sE96Fnf0gICubzicvfZdiKYNMMB-O10LxHajre7zktXWI_CyjZ1" />
+ 
 </p>
 
 <br>
