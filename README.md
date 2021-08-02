@@ -71,7 +71,7 @@
 <h2><b>Some of My Works </b></h2>
 <ul>
  <li><a href="https://www.hackster.io/dineshsagar2003/automatic-ac-on-off-system-using-bolt-iot-21da92">IOT Automatic AC on/off System</a></li>
- <li><a href="https://github.com/AkhileshSagar30/Personal-Projects">Horoscope Game (in Java)</a></li>
+ <li><a href="https://github.com/AkhileshSagar30/Personal-Projects/tree/main/Horoscope%20Java%20Project">Horoscope Game (in Java)</a></li>
 </ul>
 
 [linkedin]: https://www.linkedin.com/in/akhileshsagar30/
