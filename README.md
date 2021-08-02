@@ -37,7 +37,7 @@
 <img align="left" alt="pandas" width="60px" src="https://static.javatpoint.com/tutorial/pandas/images/python-pandas.png" />
 <img align="left" alt="bs4" width="60px" src="https://hwk0702.github.io/img/bs.png" />
 <img align="left" alt="selenium" width="50px" src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" />
-<img align="left" alt="tkinter" width="40px" src="https://lh3.googleusercontent.com/proxy/FFPivynpL7jLHN10gaW9-f0UTB-Z5NaEXrJ32OIoI3z1bY6lWW2GyvWGTHfDsKw1uOr7hi3AMJk3t9ZFrfqtXd0zwt9AeZXGj7IWQTUv2JhcM3CHbmOvaCOP" />
+<img align="left" alt="tkinter" width="70px" src="https://i.morioh.com/2019/11/20/e508febfbc11.jpg" />
  
 </p>
 
