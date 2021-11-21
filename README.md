@@ -12,9 +12,8 @@
 
 ### Social Media :
 
-[<img align="left" alt="AkhileshSagar | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Darkmagician | Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
-[<img align="left" alt="AkhileshSagar | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
 
 <br>
 
